@@ -1,4 +1,4 @@
-# JSON Server Template
+# CocktaiList JSON Server
 
 ## CocktaiList
 
